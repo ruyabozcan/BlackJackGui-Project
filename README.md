@@ -5,3 +5,6 @@
 # -----------
 # - Copy pictures directory and BlackJack.jar into same directory
 # - run .jar file
+# RÜYA BOZCAN
+# COMPUTER ENGINEERING 
+# ABU
